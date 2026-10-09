@@ -5,6 +5,28 @@
 
 <br>
 
+<!-- profile-intro:start -->
+# Hi there 👋
+
+### AI Explorer · Python Enthusiast · Tool Builder
+
+## Profile Overview
+
+- 🤖 I'm exploring AI models, agents, and their practical applications.
+- 🐍 I'm learning to turn Python ideas into useful tools and small automations.
+- 🌱 I learn from open-source projects and keep improving through hands-on practice.
+
+### Focus
+
+```text
+AI     > explore models
+Python > build small tools
+Growth > learn by doing
+```
+
+> Learn a little. Build something useful.
+<!-- profile-intro:end -->
+
 <h3 align="center">🛠️ Languages &amp; Tools</h3>
 
 <p align="center"><sub>Building &amp; exploring</sub></p>
