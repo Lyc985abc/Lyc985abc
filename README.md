@@ -6,25 +6,26 @@
 <br>
 
 <!-- profile-intro:start -->
-# Hi there 👋
+<div align="center">
 
-### AI Explorer · Python Enthusiast · Tool Builder
+<h1>Hi there 👋</h1>
+<h3>AI Explorer · Python Enthusiast · Tool Builder</h3>
 
-## Profile Overview
+<h2>Profile Overview</h2>
+<p>
+  🤖 I'm exploring AI models, agents, and their practical applications.<br>
+  🐍 I'm learning to turn Python ideas into useful tools and small automations.<br>
+  🌱 I learn from open-source projects and keep improving through hands-on practice.
+</p>
 
-- 🤖 I'm exploring AI models, agents, and their practical applications.
-- 🐍 I'm learning to turn Python ideas into useful tools and small automations.
-- 🌱 I learn from open-source projects and keep improving through hands-on practice.
+<h3>Focus</h3>
+<pre><code>AI     &gt; explore models
+Python &gt; build small tools
+Growth &gt; learn by doing</code></pre>
 
-### Focus
+<p><em>Learn a little. Build something useful.</em></p>
 
-```text
-AI     > explore models
-Python > build small tools
-Growth > learn by doing
-```
-
-> Learn a little. Build something useful.
+</div>
 <!-- profile-intro:end -->
 
 <h3 align="center">🛠️ Languages &amp; Tools</h3>
