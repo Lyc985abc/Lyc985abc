@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Lyc985abc/Lyc985abc/HEAD/assets/code-orbit-mobile.svg">
-  <img src="https://raw.githubusercontent.com/Lyc985abc/Lyc985abc/HEAD/assets/code-orbit.svg" width="100%" alt="Code playground — programming symbols and the LYC personal logo.">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Lyc985abc/Lyc985abc/HEAD/assets/code-orbit-mobile.svg?v=typing-1">
+  <img src="https://raw.githubusercontent.com/Lyc985abc/Lyc985abc/HEAD/assets/code-orbit.svg?v=typing-1" width="100%" alt="Code playground — character-by-character code typing and the LYC personal logo.">
 </picture>
 
 <br>
